@@ -43,7 +43,7 @@ body {
   padding-right: 10px;
   height: 6ex;
   color:hsl(258, 87%, 78%);
-  background-color: rgb(101, 41, 109);
+  background-color: hsl(101, 41%, 109%);
   border-radius: 15px;
   box-shadow:3px 3px 0px #49509f;
   
